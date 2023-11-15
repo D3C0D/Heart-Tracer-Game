@@ -1,0 +1,8 @@
+[gd_resource type="LabelSettings" load_steps=2 format=3 uid="uid://cx0damq6eivxv"]
+
+[ext_resource type="FontFile" uid="uid://ccfglxvfdbsaw" path="res://Fonts/Orbitron-VariableFont_wght.ttf" id="1_vlq2w"]
+
+[resource]
+font = ExtResource("1_vlq2w")
+font_size = 60
+font_color = Color(0, 1, 0, 1)

@@ -1,0 +1,8 @@
+[gd_scene load_steps=2 format=3 uid="uid://ba4ovmk0gell5"]
+
+[ext_resource type="Texture2D" uid="uid://dydfvdv4i8bt4" path="res://Sprites/HeartTracer Sprite.png" id="1_apr2g"]
+
+[node name="TrailTrace" type="Node2D"]
+
+[node name="Sprite2D" type="Sprite2D" parent="."]
+texture = ExtResource("1_apr2g")
